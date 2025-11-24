@@ -14,7 +14,7 @@ const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/
 // 3. Copy the key and paste it below.
 // The key provided by the Canvas environment (an empty string "")
 // ONLY works inside the Canvas.
-const apiKey = "YOUR_GOOGLE_AI_STUDIO_API_KEY_HERE";
+const apiKey = "AIzaSyC81YmB_Bptey9opTkP8O3HDcnRoR0glqI";
 // !! ========================================================== !!
 
 
